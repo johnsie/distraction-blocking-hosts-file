@@ -6,3 +6,9 @@
 127.0.0.1 www.yahoo.com
 127.0.0.1 www.reddit.com
 127.0.0.1 reddit.com
+127.0.0.1 amazon.com
+127.0.0.1 www.amazon.com
+127.0.0.1 www.amazon.co.uk
+127.0.0.1 amazon.co.uk
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
