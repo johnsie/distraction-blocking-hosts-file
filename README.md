@@ -1,4 +1,4 @@
-#Distraction Blocking Hosts File
+--Distraction Blocking Hosts File
 A hosts file designed to block distracting websites
 
 
