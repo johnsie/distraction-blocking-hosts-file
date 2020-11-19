@@ -15,6 +15,9 @@ Please note that the tool does not overrwrite your active hosts file for you, it
 Todo:
 
 -Tidy the code. This was rushed (about 10-20 minutes dev time)
+
 -Look at making it replace the actual hosts file
+
 -Right click to delete or edit hosts
+
 -Further enhancements
