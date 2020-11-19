@@ -14,7 +14,7 @@ namespace distraction_blocking_hosts_file
     public partial class Form1 : Form
     {
 
-        String file_name = "new_hosts_file.txt";
+        String file_name = "..\\..\\..\\new_hosts_file.txt";
         public Form1()
         {
             InitializeComponent();
