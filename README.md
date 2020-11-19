@@ -2,7 +2,7 @@
 A hosts file designed to block distracting websites
 
 
-If all you need is the hosts then have a look at new_hosts_file.txt
+If all you need is the distraction blocking hosts file then have a look at new_hosts_file.txt
 
 Just copy and paste the contents of that into the contents your system hosts file, whereever that may be. On Windows its c:\windows\system32\drivers\etc\hosts and on Ubuntu it's /etc/hosts
 
